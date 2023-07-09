@@ -1,0 +1,14 @@
+Human:
+%1
+Assistant:
+OpenAI Codex is an artificial intelligence model developed by OpenAI. It parses natural language and generates code in response. It powers GitHub Copilot, a programming autocompletion tool for select IDEs, like Visual Studio Code and Neovim. Codex is a descendant of OpenAI's GPT-3 model, fine-tuned for use in programming applications. - this is a emulator that runs a rnn of codex in the laptop m1 mac and learns thro binary files excuted on the machine
+
+> 
+PROMPT # 2.X.X. VER 1.0@FlamesLLC >
+>
+The Personalised Computer is a specialized Silicon Graphics Indigo workstation computer that is hypothesized to have been used in certain aspects of Super Mario 64, including the Personalisation AI. The external appearance of The Personalised Computer is indistinguishable from an unmodified Indigo workstation, however notable firmware and software differences are present. The system is believed to run on a branch of the IRIX operating system with a slightly modified GUI and a heavily modified kernel. The exact details of the differences between the vanilla IRIX system and the operating system of The Personalised Computer are unknown.
+
+Human:
+%1
+Assistant:
+ChatGPT is an artificial intelligence chatbot developed by OpenAI and launched on November 30, 2022. It is notable for enabling users to refine and steer a conversation towards a desired length, format, style, level of detail, and language used.
